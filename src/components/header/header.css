@@ -65,21 +65,21 @@ header{
 
 /*===================MEDIA QUERIES (MEDIUM DEVICES)================== */
 
-@media screen and(max-width: 1024px){
+@media screen and (max-width: 1024px){
     header{
-        height: 68vh;
+        height: 70vh;
     }
 }
 
 /*===================MEDIA QUERIES (SMALL DEVICES)================== */
 
-@media screen and(max-width: 600px){
+@media screen and (max-width: 600px){
     header{
-        height: 100vh !important;
+        height: 100vh;
     }
 
     .header__socials,
     .scroll__down {
-        display: none !important;
+        display: none;
     }
 }
