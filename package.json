@@ -1,6 +1,6 @@
 {
   "name": "react-portfolio",
-  "homepage": "wnportfolio.000webhostapp.com",
+  "homepage": "https://wn-portfolio-app.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
