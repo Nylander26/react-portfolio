@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2.5rem;
+    text-align: center;
 }
 
 .portfolio__item{
@@ -20,6 +21,8 @@
 .portfolio__item-image{
     border-radius: 1.5rem;
     overflow: hidden;
+    width: auto;
+    height: 12rem;
 }
 
 .portfolio__item h3{
@@ -30,6 +33,7 @@
     display: flex;
     gap: 1rem;
     margin-bottom: 1rem;
+    justify-content: center;
 }
 
 /*===================MEDIA QUERIES (MEDIUM DEVICES)================== */

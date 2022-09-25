@@ -40,6 +40,10 @@
     color: var(--color-light);
 }
 
+.center__btn__contact{
+    text-align: center;
+}
+
 /* ==================FORM==================*/
 
 form{

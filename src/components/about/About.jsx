@@ -1,8 +1,8 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/Firmware-amico (2).png'
 import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
+// import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
 const About = () => {
@@ -23,27 +23,30 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>1+ Year Developing Personal Projects</small>
             </article>
 
-            <article className='about__card'>
+            {/* <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
               <small>200+ Worldwide</small>
-            </article>
+            </article> */}
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed Projects</small>
+              <small>5+ Completed Projects</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, natus quia corrupti aut reprehenderit iusto placeat autem et neque illum vitae nesciunt tenetur, eum omnis ducimus ab, vel quae culpa?
+            Finishing an FullStack Development Bootcamp, i've knowledge on the basis of programming as well the most known languages in this field as 
+            it is HTML5, CSS3, JavaScript, PHP, i've done some personal projects with Laravel and React, i'm excited to keep learning 
+            and getting over myself in this field
           </p>
-
-          <a href="#contact" className='btn btn-primary'>Let`s Talk</a>
+          <div className='center__btn__about'>
+            <a href="#contact" className='btn btn-primary'>Let`s Talk</a>
+          </div>
         </div>
       </div>
     </section>
