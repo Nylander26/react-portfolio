@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/weather.jpg'
-// import IMG2 from '../../assets/portfolio2.jpg'
+import IMG2 from '../../assets/foro.png'
 // import IMG3 from '../../assets/portfolio3.jpg'
 // import IMG4 from '../../assets/portfolio4.jpg'
 // import IMG5 from '../../assets/portfolio5.png'
@@ -16,14 +16,14 @@ const data = [
     title: 'Weather App',
     github: 'https://github.com/Nylander26/react-weather-app',
     // demo: ''
-  }
-  // {
-  //   id: 2,
-  //   image: IMG2,
-  //   title: 'Charts',
-  //   github: 'https://github.com/Nylander26/',
+  },
+  {
+    id: 2,
+    image: IMG2,
+    title: 'Foro APP',
+    github: 'https://github.com/Nylander26/Foro-LaRuecaF5-wolfgang',
   //   demo:''
-  // },
+  },
   // {
   //   id: 3,
   //   image: IMG3,
