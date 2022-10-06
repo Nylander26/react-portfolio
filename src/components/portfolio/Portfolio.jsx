@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/weather.jpg'
 import IMG2 from '../../assets/foro.png'
-// import IMG3 from '../../assets/portfolio3.jpg'
+import IMG3 from '../../assets/gestor_fotos.jpg'
 // import IMG4 from '../../assets/portfolio4.jpg'
 // import IMG5 from '../../assets/portfolio5.png'
 // import IMG6 from '../../assets/portfolio6.jpg'
@@ -24,13 +24,13 @@ const data = [
     github: 'https://github.com/Nylander26/Foro-LaRuecaF5-wolfgang',
   //   demo:''
   },
-  // {
-  //   id: 3,
-  //   image: IMG3,
-  //   title: 'Figma',
-  //   github: 'https://github.com/Nylander26/',
+  {
+    id: 3,
+    image: IMG3,
+    title: 'Gestor Fotos',
+    github: 'https://github.com/Nylander26/Gestor-fotos',
   //   demo: ''
-  // }
+  }
 ]
 
 const Portfolio = () => {
