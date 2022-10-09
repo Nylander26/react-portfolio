@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.7ef5d49b.css",
-    "main.js": "/react-portfolio/static/js/main.01af4544.js",
+    "main.css": "/react-portfolio/static/css/main.24649e48.css",
+    "main.js": "/react-portfolio/static/js/main.83d65a44.js",
     "static/media/www-amico (1).png": "/react-portfolio/static/media/www-amico (1).cf55cb8bac669a9c661d.png",
     "static/media/Firmware-amico (2).png": "/react-portfolio/static/media/Firmware-amico (2).65c2e671de12ff271d45.png",
-    "static/media/CV con Portfolio y Presentacion.pdf": "/react-portfolio/static/media/CV con Portfolio y Presentacion.6776c2a6b49ef5c945eb.pdf",
+    "static/media/CV Mods Last.pdf": "/react-portfolio/static/media/CV Mods Last.d94e0b6aa2a0760a3d3a.pdf",
     "index.html": "/react-portfolio/index.html",
-    "main.7ef5d49b.css.map": "/react-portfolio/static/css/main.7ef5d49b.css.map",
-    "main.01af4544.js.map": "/react-portfolio/static/js/main.01af4544.js.map"
+    "main.24649e48.css.map": "/react-portfolio/static/css/main.24649e48.css.map",
+    "main.83d65a44.js.map": "/react-portfolio/static/js/main.83d65a44.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ef5d49b.css",
-    "static/js/main.01af4544.js"
+    "static/css/main.24649e48.css",
+    "static/js/main.83d65a44.js"
   ]
 }
