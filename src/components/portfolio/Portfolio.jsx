@@ -15,7 +15,7 @@ const data = [
     image: IMG1,
     title: 'Weather App',
     github: 'https://github.com/Nylander26/react-weather-app',
-    // demo: ''
+    demo: 'https://nylander26.github.io/react-weather-app/'
   },
   {
     id: 2,
@@ -50,7 +50,7 @@ const Portfolio = () => {
                 <h3>{title}</h3>
                 <div className="portfolio__item-cta">
                   <a href={github} className='btn btn-primary'>Github</a>
-                  {/* <a href={demo} className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a> */}
+                  <a href={demo} className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
                 </div>
               </article>
             )
