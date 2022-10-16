@@ -7,7 +7,6 @@ import IMG3 from '../../assets/gestor_fotos.jpg'
 // import IMG5 from '../../assets/portfolio5.png'
 // import IMG6 from '../../assets/portfolio6.jpg'
 
-//DO NOT USE THE IMAGES IN PRODUCTION
 
 const data = [
   {
